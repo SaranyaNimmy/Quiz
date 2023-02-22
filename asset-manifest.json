@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SaranyaNimmy/Quiz-App.git/static/css/main.e6c13ad2.css",
+    "main.js": "/SaranyaNimmy/Quiz-App.git/static/js/main.77c305b1.js",
+    "index.html": "/SaranyaNimmy/Quiz-App.git/index.html",
+    "main.e6c13ad2.css.map": "/SaranyaNimmy/Quiz-App.git/static/css/main.e6c13ad2.css.map",
+    "main.77c305b1.js.map": "/SaranyaNimmy/Quiz-App.git/static/js/main.77c305b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77c305b1.js"
+  ]
+}
